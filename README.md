@@ -44,12 +44,12 @@
 ---
 
 ### 📌 Projects
-- 🔧 **Artker**: React Native mobile app connecting musicians to clients (Firebase, Auth, Messaging, Search).
-- 🕹 **Black Asta Discord Bot**: Custom bot with economy, quests, role systems, and web integration.
-- 🌐 **Tech Con 2023 Website**: Animated, responsive conference site (GSAP, Lenis, jQuery).
-- 🏛 **Bristol Tourism Site**: Scroll-animated UI with usability testing & Nielsen’s heuristics.
-- 🎓 **Loans Management System**: OOP-based Java project with abstract classes and validation.
-- 🧠 **IBM SkillsBuild Web App**: Gamified learning platform with login, ratings, leaderboards.
+- 🔧 **Artker**: React Native mobile app connecting musicians to clients (React, React Native, Firebase, SQL, and more).
+- 🕹 **Black Asta Discord Bot**: Discord bot with economy, quests, role systems, card game, and more (Python, SQL, Discord.py, and more).
+- 🌐 **Tech Con 2023 Website**: Animated, responsive conference site (HTML, CSS, Javascript, GSAP, and more).
+- 🏛 **Bristol Tourism Site**: Scroll-animated UI with usability testing & Nielsen’s heuristics (HTML, CSS, Javascript, and more).
+- 🎓 **Loans Management System**: OOP-based Java project with abstract classes and validation (Java, OOP).
+- 🧠 **IBM SkillsBuild Web App**: Gamified learning platform with login, ratings, leaderboards (Spring Boot, Java, SQL, and more).
 - 😄 **And more**
 
 ---
@@ -57,20 +57,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OctetularZ&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OctetularZ&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctetularZ&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat&logo=web&logoColor=white)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:taiabayomi15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-ogunseitan)
+Portfolio Website - Coming Soon
 
 ---
 
