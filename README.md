@@ -76,5 +76,5 @@ Portfolio Website - Coming Soon
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i>
 </p>
