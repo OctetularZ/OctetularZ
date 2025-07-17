@@ -70,6 +70,7 @@
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:taiabayomi15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-ogunseitan)
+<br>
 Portfolio Website - Coming Soon
 
 ---
