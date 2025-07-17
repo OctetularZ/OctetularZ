@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a 2nd-year Computer Science student passionate about solving real-world problems through technology.  
-🚀 On track for a First-Class degree, with strong skills in both weak and strong-typed programming languages.  
-🔧 I enjoy building scalable applications in and outside my coursework.  
+🎓 I'm a 2nd-year Computer Science student passionate about software.  
+🚀 On track to acheive a First-Class degree, with strong skills in both weak and strong-typed programming languages.  
+🔧 I enjoy building scalable applications in and outside my studies.  
 🤝 Proven ability to collaborate in team environments and thrive in technical projects.  
-📚 Constantly exploring new tools, frameworks, and languages to expand my software engineering toolkit.  
+📚 Constantly exploring new tools, frameworks, and languages to expand my toolkit.  
 
 ---
 
@@ -50,6 +50,7 @@
 - 🏛 **Bristol Tourism Site**: Scroll-animated UI with usability testing & Nielsen’s heuristics.
 - 🎓 **Loans Management System**: OOP-based Java project with abstract classes and validation.
 - 🧠 **IBM SkillsBuild Web App**: Gamified learning platform with login, ratings, leaderboards.
+- 😄 **And more**
 
 ---
 
