@@ -20,7 +20,7 @@
 ### 💼 Technical Skills
 
 #### Languages:
-![Java]([https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white))
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
