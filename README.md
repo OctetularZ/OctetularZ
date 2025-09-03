@@ -35,25 +35,31 @@
 </p>
 
 #### Frameworks & Tools:
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React JS](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-black?style=flat&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
 
 ---
 
 ### 📌 Projects
-- 🔧 **Artker**: React Native mobile app connecting musicians to clients (React, React Native, Firebase, SQL, and more).
+- 🏋️ **Poké Trainer**: A Next.js Pokémon companion site with a Pokédex, mini-games, AI battles, team builder, etc.
+- 👾 **GameHub**: A React JS + TypeScript game discovery app powered by the RAWG.io API (React JS, TypeScript, Node JS, HTML, CSS, Github API, and more).
+- 📱 **Artker**: React Native mobile app connecting musicians to clients (React, React Native, Firebase, SQL, and more).
 - 🕹 **Black Asta Discord Bot**: Discord bot with economy, quests, role systems, card game, and more (Python, SQL, Discord.py, and more).
 - 🌐 **Tech Con 2023 Website**: Animated, responsive conference site (HTML, CSS, Javascript, GSAP, and more).
-- 🏛 **Bristol Tourism Site**: Scroll-animated UI with usability testing & Nielsen’s heuristics (HTML, CSS, Javascript, and more).
-- 🎓 **Loans Management System**: OOP-based Java project with abstract classes and validation (Java, OOP).
 - 🧠 **IBM SkillsBuild Web App**: Gamified learning platform with login, ratings, leaderboards (Spring Boot, Java, SQL, and more).
 - 😄 **And more**
 
