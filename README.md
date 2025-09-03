@@ -62,10 +62,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctetularZ&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OctetularZ&theme=radical" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctetularZ&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -73,10 +69,10 @@
 
 ### 📫 Contact Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=visualstudiocode&logoColor=white)](https://portfolio-one-taupe-52.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:taiabayomi15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-ogunseitan)
 <br>
-Portfolio Website - Coming Soon
 
 ---
 
