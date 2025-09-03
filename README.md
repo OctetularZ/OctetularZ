@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taiwo Ogunseitan</h1>
-<h3 align="center">Aspiring Software Engineer | 2nd Year Computer Science Student</h3>
+<h3 align="center">Aspiring Software Engineer | 3rd Year Computer Science Student</h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer+;Lifelong+learner+%F0%9F%93%9A;Java+%7C+Python+%7C+SQL+%7C+React+%7C+Spring+Boot;Always+Learning+%F0%9F%92%BB" 
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer+;Lifelong+learner+%F0%9F%93%9A;Java+%7C+Python+%7C+SQL+%7C+React+JS+%7C+Next+JS;Always+Learning+%F0%9F%92%BB" 
     alt="Typing SVG" 
   />
 </p>
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a 2nd-year Computer Science student passionate about software.  
+🎓 I'm a 3rd-year Computer Science student passionate about software.  
 🚀 On track to acheive a First-Class degree, with strong skills in both weak and strong-typed programming languages.  
 🔧 I enjoy building scalable applications in and outside my studies.  
 🤝 Proven ability to collaborate in team environments and thrive in technical projects.  
@@ -55,7 +55,7 @@
 ---
 
 ### 📌 Projects
-- 🏋️ **Poké Trainer**: A Next.js Pokémon companion site with a Pokédex, mini-games, AI battles, team builder, etc.
+- 🏋️ **Poké Trainer**: A Full-Stack Next.js Pokémon companion site with a Pokédex, mini-games, AI battles, team builder, etc (Next JS, TypeScript, Primsa, PostgreSQL, and much more).
 - 👾 **GameHub**: A React JS + TypeScript game discovery app powered by the RAWG.io API (React JS, TypeScript, Node JS, HTML, CSS, Github API, and more).
 - 📱 **Artker**: React Native mobile app connecting musicians to clients (React, React Native, Firebase, SQL, and more).
 - 🕹 **Black Asta Discord Bot**: Discord bot with economy, quests, role systems, card game, and more (Python, SQL, Discord.py, and more).
