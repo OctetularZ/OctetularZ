@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a 3rd-year Computer Science student passionate about software.  
+🎓 I'm a final year Computer Science student passionate about software.  
 🚀 On track to acheive a First-Class degree, with strong skills in both weak and strong-typed programming languages.  
 🔧 I enjoy building scalable applications in and outside my studies.  
 🤝 Proven ability to collaborate in team environments and thrive in technical projects.  
